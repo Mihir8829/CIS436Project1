@@ -67,6 +67,7 @@ class MainActivity : AppCompatActivity() {
                 if (curPlayer == "P1") playerOneScore += 1 else playerTwoScore += 1
             }
         }
+
         binding.btnRoll.setOnClickListener{
             index = Random.nextInt(0,6)
             binding.dice.setImageResource(diceIds[index])
