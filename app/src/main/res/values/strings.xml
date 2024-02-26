@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Project1</string>
+    <string name="roll_again">Roll Again!</string>
+    <string name="score">Score</string>
+    <string name="score1">Score</string>
+    <string name="score2">Score</string>
+    <string name="image_of_dice">Image of Dice</string>
+    <string name="add">+</string>
+    <string name="sub">=</string>
+    <string name="num_1">5</string>
+    <string name="guess">Guess</string>
+    <string name="num_2">2</string>
+    <string name="p1">P1</string>
+    <string name="current_player">Current Player:</string>
+    <string name="roll_die">Roll Die</string>
+    <string name="player_2_total_points">Player 2 Total Points:</string>
+    <string name="current_jackpot">Current Jackpot:</string>
+    <string name="player_1_total_points">Player 1 Total Points:</string>
+</resources>
